@@ -1,2 +1,2 @@
-# Future site of AiCodeLabs.io
+# Future doc site of AiCodeLabs.io
 
